@@ -1,0 +1,4 @@
+stripe
+requests
+colorama
+python-dotenv
