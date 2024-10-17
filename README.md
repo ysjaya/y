@@ -27,7 +27,7 @@ Failed: ['5500000000000004', '11', '26', '456'] - Proxy error/die
 
 **Linux, Windows, Termux:**
 ```sh
-git clone https://github.com/yourgithub/vcc_checker.git
+git clone https://github.com/taufiqdayat211/VCC_Checker999.git
 cd vcc_checker
 pip install -r requirements.txt
 ```
